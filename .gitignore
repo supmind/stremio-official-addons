@@ -1,3 +1,1 @@
-**/addons.json
-/node_modules
-**/target
+node_modules/
