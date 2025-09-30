@@ -523,7 +523,7 @@
         "transportUrl": "https://v3-cinemeta.strem.io/manifest.json",
         "flags": {
             "official": true,
-            "protected": true
+            "protected": false
         }
     },
     {
@@ -784,7 +784,7 @@
         "transportUrl": "http://127.0.0.1:11470/local-addon/manifest.json",
         "flags": {
             "official": true,
-            "protected": true
+            "protected": false
         }
     }
 ]
